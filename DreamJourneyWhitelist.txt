@@ -1,4 +1,1 @@
-しえにゃん
-test1
-test2
-test3
+しえにゃん,[1] Local Player,すなぷあ
